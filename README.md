@@ -1,5 +1,6 @@
 Task Tracker 📝
 A simple iOS task manager built with SwiftUI and SwiftData.
+
 Features
 
 Add and delete tasks
